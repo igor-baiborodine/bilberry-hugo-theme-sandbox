@@ -6,6 +6,7 @@ draft: false
 categories: []
 tags: [shortcode]
 toc: false
+series: "Articles With TOC"
 author: "Igor"
 ---
 

@@ -142,6 +142,7 @@ disqusShortname = ""
   author   = "author"
   tag      = "tags"
   category = "categories"
+  series   = "series"
 
 [outputs]
   home = [ "HTML", "JSON", "RSS" ]
@@ -152,3 +153,9 @@ disqusShortname = ""
     endLevel = 5
     ordered = false
     startLevel = 2
+
+[markup.asciidocext]
+  extensions = ["asciidoctor-html5s", "asciidoctor-diagram"]
+    workingFolderCurrent = true
+    [markup.asciidocext.attributes]
+      toc-end-level = "markup.tableOfContents.endLevel"

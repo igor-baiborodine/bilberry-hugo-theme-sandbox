@@ -6,6 +6,7 @@ draft: false
 categories: []
 tags: [toc]
 toc: false
+series: "Articles Without TOC"
 author: "Igor"
 ---
 
