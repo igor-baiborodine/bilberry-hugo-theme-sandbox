@@ -1,5 +1,5 @@
 # bilberry-toc-test
-Website to test the table of contents feature
+Website to test features in the Bilberry Hugo theme
 
 ### https://bilberry-toc-test.netlify.app/
 
