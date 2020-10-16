@@ -79,9 +79,9 @@ disqusShortname = ""
 
   # Content configuration
     # Enable an optional pinned page to display at the top of the index
-    # pinnedPost = "/content/github/"
+    pinnedPost = "/article/pinned-post-test-1st-by-date/,/article/pinned-post-test-2nd-by-date/"
     # Set to true to pin only to the first page, false to all pages
-    # pinOnlyToFirstPage = true
+    pinOnlyToFirstPage = true
 
     # enable automatical localization of the article's PublishedDate with momentjs
     enableMomentJs = true
