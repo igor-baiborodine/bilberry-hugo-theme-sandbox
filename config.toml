@@ -1,4 +1,4 @@
-title = "Bilberry TOC Test"
+title = "Bilberry Test Website"
 baseURL = "https://bilberry-toc-test.netlify.app/"
 theme = "bilberry-hugo-theme"
 
@@ -32,7 +32,7 @@ disqusShortname = ""
   keywords = "blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts"
 
   # How many articles should be displayed at once?
-  paginate = 7
+  paginate = 10
 
   # Enable / Disable MathJax
   enable_mathjax    = false
@@ -59,10 +59,10 @@ disqusShortname = ""
 #    subtitle = "Hello World! This is the most epic subtitle ever."
 
     # if you want to use libravatar or gravatar for the header image
-    avatarEmail = "code@lednerb.de"
+    #avatarEmail = "code@lednerb.de"
 
     # set an path to the image file you want to use | overwrites avatar by email
-    customImage = ""
+    customImage = "bilberry-avatar.png"
 
     # define the icon you want to use for the overlay for the customImage or avatar.
     overlayIcon = "fa-home"
