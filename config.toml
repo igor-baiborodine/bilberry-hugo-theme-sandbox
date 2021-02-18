@@ -1,5 +1,5 @@
 title = "Bilberry Test Website"
-baseURL = "https://bilberry-toc-test.netlify.app/"
+baseURL = "https://www.bilberry-test.kiroule.com"
 theme = "bilberry-hugo-theme"
 
 # Generate the robots.txt file for SEO
