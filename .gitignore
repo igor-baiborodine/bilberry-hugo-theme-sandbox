@@ -1,1 +1,3 @@
 *.iml
+public
+algolia/node_modules
