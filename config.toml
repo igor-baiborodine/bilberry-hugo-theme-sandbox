@@ -1,5 +1,5 @@
 title = "Bilberry Test Website"
-baseURL = "https://www.bilberry-test.kiroule.com"
+baseURL = "https://www.bilberry-sandbox.kiroule.com"
 theme = "bilberry-hugo-theme"
 
 # Generate the robots.txt file for SEO
