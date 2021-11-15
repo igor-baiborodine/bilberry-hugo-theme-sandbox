@@ -1,6 +1,3 @@
-# bilberry-toc-test
-Website to test features in the Bilberry Hugo theme
+# https://bilberry-sandbox.kiroule.com/
 
-### https://bilberry-toc-test.netlify.app/
-
-
+This website serves as a sandbox to develop, test, and maintain the Bilberry Hugo theme.
