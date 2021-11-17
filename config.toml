@@ -64,11 +64,11 @@ disqusShortname = ""
     overlayIcon = "fa-home"
 
     # always display the top navigation (with pages and search) on non-mobile screens
-    permanentTopNav = false
+    permanentTopNav = true
 
     # always display the top navigation when scrolling
     # works only with permanentTopNav = true
-    stickyNav = false
+    stickyNav = true
 
     # show a language chooser in the header
     showHeaderLanguageChooser = false
@@ -119,11 +119,11 @@ disqusShortname = ""
     ]
 
     # credits line configuration
-    copyrightBy = "by Lednerb"
-    copyrightUseCurrentYear = false  # set to true to always display the current year in the copyright
+    copyrightBy = "Bilberry Sandbox"
+    copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
     copyrightYearOverride = "2017"
     copyrightUrl = "https://github.com/Lednerb"
-    creditsText = "Bilberry Hugo Theme"
+    creditsText = "Powered by Bilberry Hugo Theme"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
 
 
