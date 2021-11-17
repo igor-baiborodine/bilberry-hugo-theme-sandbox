@@ -1,4 +1,4 @@
-title = "Bilberry Test Website"
+title = "Bilberry Sandbox"
 baseURL = "https://www.bilberry-sandbox.kiroule.com/"
 theme = "bilberry-hugo-theme"
 
@@ -13,10 +13,6 @@ googleAnalytics = ""
 
 # Enable / Disable comments on the articles via Disqus.
 disqusShortname = ""
-
-# Enable / Disable open link with a new tab.
-[blackfriday]
-  hrefTargetBlank = false
 
 [params]
   # Custom CSS / JS modules that will be imported by the template.
@@ -56,7 +52,7 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-#    subtitle = "Hello World! This is the most epic subtitle ever."
+    subtitle = "Raw HTML enbled!"
 
     # if you want to use libravatar or gravatar for the header image
     #avatarEmail = "code@lednerb.de"
@@ -149,13 +145,12 @@ disqusShortname = ""
   page = [ "HTML" ]
 
 [markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      # Change to 'true' if you need to render raw HTML whithin your markdown content
+      unsafe = true
   [markup.tableOfContents]
     endLevel = 5
     ordered = false
     startLevel = 2
-
-[markup.asciidocext]
-  extensions = ["asciidoctor-html5s", "asciidoctor-diagram"]
-    workingFolderCurrent = true
-    [markup.asciidocext.attributes]
-      toc-end-level = "markup.tableOfContents.endLevel"
