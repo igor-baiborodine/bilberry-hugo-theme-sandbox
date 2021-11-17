@@ -1,10 +1,10 @@
 ---
-title: "Test Youtube Video in Article Post"
+title: "Test YouTube Video in Article Post"
 date: 2020-10-13T22:01:26-04:00
 draft: false
 
-categories: [Test]
-tags: [Video, Youtube]
+categories: [Video]
+tags: [Youtube]
 toc: false
 author: "Igor"
 ---

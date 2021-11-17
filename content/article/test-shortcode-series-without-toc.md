@@ -3,8 +3,8 @@ title: "Test Shortcode Series WITHOUT TOC"
 date: 2020-10-05T06:54:18-04:00
 draft: false
 
-categories: []
-tags: []
+categories: [Series]
+tags: [Shortcode]
 toc: false
 author: "Igor"
 ---
