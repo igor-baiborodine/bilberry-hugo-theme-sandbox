@@ -3,7 +3,7 @@ title: "Test Raw Html"
 date: 2021-11-17T07:45:00-05:00
 draft: false
 
-categories: []
+categories: [Raw HTML]
 tags: []
 toc: false
 author: "Igor"

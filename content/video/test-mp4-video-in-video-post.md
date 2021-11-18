@@ -1,8 +1,8 @@
 ---
 title: "Test Mp4 Video in Video Post"
 date: 2020-10-11T15:28:51-04:00
-categories: [Test]
-tags: [Video, MP4]
+categories: [Video]
+tags: [MP4]
 author: "Igor"
 
 mp4video: "/test_mp4_video.mp4"

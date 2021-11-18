@@ -34,12 +34,12 @@ disqusShortname = ""
   enable_mathjax    = false
 
   # Enable / Disable algolia search
-#  algolia_search    = true
-#  algolia_appId     = "45CEN6X6AT"
-#  algolia_apiKey    = "16030625f1a4d0dd3b8aefd794fd4cf1"
-#  algolia_indexName = "bilberry-hugo-theme"
-    # Set this option to false if you want to search within all articles in all languages at once
-#    algolia_currentLanguageOnly = true
+  algolia_search    = true
+  algolia_appId     = "810O6T2B5U"
+  algolia_apiKey    = "1bcca9dafb3bcac6a998e554d520b239"
+  algolia_indexName = "prod_bilberry_sandbox"
+  # Set this option to false if you want to search within all articles in all languages at once
+  algolia_currentLanguageOnly = true
 
   # Enable / Disable comments on the articles via commento
 #  commentoJsURL = "https://commento.lednerb.de/js/commento.js"
@@ -64,11 +64,11 @@ disqusShortname = ""
     overlayIcon = "fa-home"
 
     # always display the top navigation (with pages and search) on non-mobile screens
-    permanentTopNav = false
+    permanentTopNav = true
 
     # always display the top navigation when scrolling
     # works only with permanentTopNav = true
-    stickyNav = false
+    stickyNav = true
 
     # show a language chooser in the header
     showHeaderLanguageChooser = false
@@ -119,11 +119,11 @@ disqusShortname = ""
     ]
 
     # credits line configuration
-    copyrightBy = "by Lednerb"
-    copyrightUseCurrentYear = false  # set to true to always display the current year in the copyright
+    copyrightBy = "Bilberry Sandbox"
+    copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
     copyrightYearOverride = "2017"
     copyrightUrl = "https://github.com/Lednerb"
-    creditsText = "Bilberry Hugo Theme"
+    creditsText = "Powered by Bilberry Hugo Theme"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
 
 

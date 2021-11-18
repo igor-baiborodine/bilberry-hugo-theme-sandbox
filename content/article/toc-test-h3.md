@@ -3,8 +3,8 @@ title: "Toc Test H3"
 date: 2020-09-18T07:40:45-04:00
 draft: false
 
-categories: []
-tags: [toc]
+categories: [TOC]
+tags: []
 toc: true
 series: "Articles With TOC"
 author: "Igor"

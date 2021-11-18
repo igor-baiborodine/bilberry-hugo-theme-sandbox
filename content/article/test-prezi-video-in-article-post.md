@@ -3,8 +3,8 @@ title: "Test Prezi Video in Article Post"
 date: 2020-10-14T22:01:26-04:00
 draft: false
 
-categories: [Test]
-tags: [Video, Prezi]
+categories: [Video]
+tags: [Prezi]
 toc: false
 author: "Igor"
 ---
