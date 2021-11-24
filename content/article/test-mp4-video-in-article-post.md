@@ -13,4 +13,4 @@ Test article post with a MP4 video via the shortcode.
 
 <!--more-->
 
-{{< video type="mp4" url="/test_mp4_video.mp4" imageUrl="/test_mp4_video_image.png" >}}
+{{< video type="mp4" url="/video/test_mp4_video.mp4" imageUrl="/img/test_mp4_video_image.png" >}}
