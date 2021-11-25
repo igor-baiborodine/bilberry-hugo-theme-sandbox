@@ -1,7 +1,6 @@
 ---
 title: "Test WAV audio in Article Post"
 date: 2021-11-24T07:46:00-05:00
-draft: true
 
 categories: [Audio]
 tags: [WAV]
