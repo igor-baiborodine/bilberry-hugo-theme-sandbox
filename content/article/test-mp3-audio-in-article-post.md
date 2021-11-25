@@ -12,4 +12,4 @@ Test article post with a **MP3** track via the shortcode.
 
 <!--more-->
 
-{{< audio type="audio" url="/audio/icq-remix.mp3" >}}
+{{< audio type="audiofile" url="/audio/icq-remix.mp3" >}}

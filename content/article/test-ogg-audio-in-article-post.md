@@ -12,4 +12,4 @@ Test article post with an **Ogg** track via the shortcode.
 
 <!--more-->
 
-{{< audio type="audio" url="/audio/screeching-tires.ogg" >}}
+{{< audio type="audiofile" url="/audio/screeching-tires.ogg" >}}

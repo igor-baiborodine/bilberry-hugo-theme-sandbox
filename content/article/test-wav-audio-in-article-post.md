@@ -12,4 +12,4 @@ Test article post with a **WAV** track via the shortcode.
 
 <!--more-->
 
-{{< audio type="audio" url="/audio/phone-ring.wav" >}}
+{{< audio type="audiofile" url="/audio/phone-ring.wav" >}}
