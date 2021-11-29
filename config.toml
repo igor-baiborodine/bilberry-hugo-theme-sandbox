@@ -126,6 +126,19 @@ disqusShortname = ""
     creditsText = "Powered by Bilberry Hugo Theme"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
 
+    # Enable / Disable Giscus comments
+    giscus             = true
+    giscusJsUrl        = "https://giscus.app/client.js"
+    giscusRepository   = "igor-baiborodine/bilberry-hugo-theme-sandbox"
+    giscusRepositoryId = "MDEwOlJlcG9zaXRvcnkyOTY2MTQ1MzY="
+    giscusMapping      = "pathname"
+    giscusCategory     = "General"
+    giscusCategoryId   = "DIC_kwDOEa36iM4CACaU"
+    giscusTheme        = "light"
+    giscusReactions    = "1"
+    giscusEmitMetadata = "0"
+    giscusLanguage     = "en"
+    giscusCrossOrigin  = "anonymous"
 
 # customize your available languages for your multi-langual site
 # or delete the [Languages] blog to use the theme with only one supported language
