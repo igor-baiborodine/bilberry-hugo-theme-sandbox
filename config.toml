@@ -114,7 +114,7 @@ disqusShortname = ""
     showArchive = true
 
     # arhive grouping: "2006" by year, "2006-01" by month
-    archiveDateGrouping = "2006-01"
+    archiveDateGrouping = "2006"
 
     # define your links with FontAwesome 5 (only free icons are supported)
     # all icons https://fontawesome.com/icons?d=gallery&m=free
