@@ -1,3 +1,4 @@
 [submodule "themes/bilberry-hugo-theme"]
 	path = themes/bilberry-hugo-theme
 	url = https://github.com/lednerb/bilberry-hugo-theme.git
+# 	branch = <test-branch>
