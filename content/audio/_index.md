@@ -5,4 +5,4 @@ date: "2021-12-13"
 
 ### Audio Posts
 
-Here I want to list post of the `Audio` type.
+Here I want to list all posts of the `Audio` type.
