@@ -1,4 +1,5 @@
 title = "Bilberry Superfluous Sandbox Bilberry Superfluous Sandbox Bilberry Superfluous Sandbox Bilberry Superfluous Sandbox Bilberry Superfluous Sandbox Bilberry Superfluous Sandbox Bilberry Superfluous Sandbox Bilberry Superfluous Sandbox"
+#title = "Bilberry Sandbox"
 baseURL = "https://www.bilberry-sandbox.kiroule.com/"
 theme = "bilberry-hugo-theme"
 
@@ -52,7 +53,8 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Raw HTML enabled! Long live HTML! Raw HTML enabled! Long live HTML!  Raw HTML enabled! Long live HTML!  Raw HTML enabled! Long live HTML!"
+#    subtitle = "Raw HTML enabled!"
+subtitle = "Raw HTML enabled! Long live HTML! Raw HTML enabled! Long live HTML!  Raw HTML enabled! Long live HTML!  Raw HTML enabled! Long live HTML!"
 
     # if you want to use libravatar or gravatar for the header image
     #avatarEmail = "code@lednerb.de"
