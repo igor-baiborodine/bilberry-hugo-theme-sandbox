@@ -1,6 +1,6 @@
 title = "Bilberry Sandbox"
 baseURL = "https://www.bilberry-sandbox.kiroule.com/"
-#theme = "bilberry-hugo-theme"
+theme = "github.com/Lednerb/bilberry-hugo-theme"
 
 # Generate the robots.txt file for SEO
 enableRobotsTXT = true
@@ -173,10 +173,3 @@ disqusShortname = ""
     endLevel = 5
     ordered = false
     startLevel = 2
-
-[module]
-  # uncomment line below for temporary local development of module
-  # replacements = "github.com/Lednerb/bilberry-hugo-theme -> ../../bilberry-hugo-theme"
-  [[module.imports]]
-    path = "github.com/Lednerb/bilberry-hugo-theme"
-    disable = false
