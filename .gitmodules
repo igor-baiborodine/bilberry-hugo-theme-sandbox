@@ -1,4 +1,4 @@
 [submodule "themes/bilberry-hugo-theme"]
 	path = themes/bilberry-hugo-theme
 	url = https://github.com/Lednerb/bilberry-hugo-theme.git
-# 	branch =
+ 	branch = idea/316-make-hyperlinks-more-obvious
