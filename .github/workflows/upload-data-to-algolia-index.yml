@@ -9,7 +9,7 @@ on:
 jobs:
 
   Upload Data:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: Git Checkout
         uses: actions/checkout@v2
@@ -32,7 +32,6 @@ jobs:
         run: hugo
 
       - name: Upload Data
-        working-directory: ./algolia
         run: |
           npm install
           npm run data-upload -- -c \
@@ -40,3 +39,4 @@ jobs:
             -a 810O6T2B5U \
             -k ${{ secrets.ALGOLIA_ADMIN_API_KEY }} \
             -n prod_bilberry_sandbox
+        working-directory: ./algolia
