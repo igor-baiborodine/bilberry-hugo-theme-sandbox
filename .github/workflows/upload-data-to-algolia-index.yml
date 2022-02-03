@@ -34,9 +34,9 @@ jobs:
       - name: Upload Data
         run: |
           npm install
-          npm run data-upload -- -c \
-            -f ../public/index.json \
-            -a 810O6T2B5U \
-            -k ${{ secrets.ALGOLIA_ADMIN_API_KEY }} \
-            -n prod_bilberry_sandbox
+#          npm run data-upload -- -c \
+#            -f ../public/index.json \
+#            -a 810O6T2B5U \
+#            -k ${{ secrets.ALGOLIA_ADMIN_API_KEY }} \
+#            -n prod_bilberry_sandbox
         working-directory: ./algolia
