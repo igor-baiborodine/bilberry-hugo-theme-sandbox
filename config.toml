@@ -71,7 +71,7 @@ disqusShortname = ""
     stickyNav = false
 
     # show a language chooser in the header
-    showHeaderLanguageChooser = false
+    showHeaderLanguageChooser = true
 
   # Content configuration
     # Enable an optional pinned page to display at the top of the index
@@ -146,11 +146,19 @@ disqusShortname = ""
     giscusLanguage     = "en"
     giscusCrossOrigin  = "anonymous"
 
-# customize your available languages for your multi-langual site
+# customize your available languages for your multi-lingual site
 # or delete the [Languages] blog to use the theme with only one supported language
 [Languages]
   [Languages.en]
     weight = 1
+    title = "Danny's Data Adventures"
+  [Languages.es]
+    weight = 2
+    title = "Adventuras de Datos con Danny"
+    subtitle = ""
+  [Languages.pt-PT]
+    weight = 3
+    title = "Adventuras de Dados com Danny"
 
 # don't change anything below
 [taxonomies]
@@ -168,7 +176,7 @@ disqusShortname = ""
   [markup.goldmark]
     [markup.goldmark.renderer]
       # Change to 'true' if you need to render raw HTML whithin your markdown content
-      unsafe = true
+      unsafe = false
   [markup.tableOfContents]
     endLevel = 5
     ordered = false
