@@ -13,5 +13,8 @@ Test article post with a YouTube video via Hugo's shortcode.
 
 <!--more-->
 
-{{< youtube qtIqKaDlqXo >}}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mauris lacus, rutrum a elit quis, semper semper felis.
 
+{{< youtube qtIqKaDlqXo >}}
+\
+Etiam libero eros, molestie sed lectus at, tincidunt iaculis enim. In elementum semper dui, id euismod tortor commodo sed. Nam mauris felis, commodo ac enim eget, imperdiet molestie orci. Nam sit amet metus vel lorem pulvinar ornare vitae eget eros. In faucibus eget urna et sollicitudin. Duis fringilla leo sit amet purus dignissim, eu convallis turpis porta. Donec vestibulum leo at lorem placerat porta. Suspendisse lorem nulla, pellentesque eu libero vitae, ullamcorper elementum ante. Nulla ultrices ante et risus dignissim, nec vulputate sapien pharetra. Proin iaculis ligula sed lorem sodales vestibulum.
