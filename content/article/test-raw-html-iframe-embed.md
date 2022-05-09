@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mauris lacus, 
 scrolling="no" framespacing="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
 </iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qtIqKaDlqXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/qtIqKaDlqXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Etiam libero eros, molestie sed lectus at, tincidunt iaculis enim. In elementum semper dui, id euismod tortor commodo sed. Nam mauris felis, commodo ac enim eget, imperdiet molestie orci. Nam sit amet metus vel lorem pulvinar ornare vitae eget eros. In faucibus eget urna et sollicitudin. Duis fringilla leo sit amet purus dignissim, eu convallis turpis porta. Donec vestibulum leo at lorem placerat porta. Suspendisse lorem nulla, pellentesque eu libero vitae, ullamcorper elementum ante. Nulla ultrices ante et risus dignissim, nec vulputate sapien pharetra. Proin iaculis ligula sed lorem sodales vestibulum.
 
