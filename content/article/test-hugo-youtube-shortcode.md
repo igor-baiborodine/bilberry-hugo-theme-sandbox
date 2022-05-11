@@ -1,5 +1,5 @@
 ---
-title: "Test Hugo YouTube Shortcode in Article"
+title: "Test Hugo youtube Shortcode in Article"
 date: 2022-05-02T08:27:11-04:00
 draft: false
 
