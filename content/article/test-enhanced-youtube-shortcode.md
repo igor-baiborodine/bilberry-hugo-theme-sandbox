@@ -13,11 +13,16 @@ Test article post with a YouTube video via custom enhanced shortcode.
 
 <!--more-->
 
-##### Shortcode with the `id` parameter only 
+##### Shortcode with the unnamed `id` parameter only
+{{</* youtube-enhanced qtIqKaDlqXo */>}}
+{{< youtube-enhanced qtIqKaDlqXo >}}
+&nbsp;
 
+##### Shortcode with the named `id` parameter only 
+{{</* youtube-enhanced id="qtIqKaDlqXo" */>}}
 {{< youtube-enhanced id="qtIqKaDlqXo" >}}
 &nbsp; 
 
-##### Shortcode with the `id`, `title`, and `start` parameters
-
+##### Shortcode with the named `id`, `title`, and `start` parameters
+{{</* youtube-enhanced id="qtIqKaDlqXo" title="Hugo Introduction" start="120" */>}}
 {{< youtube-enhanced id="qtIqKaDlqXo" title="Hugo Introduction" start="120" >}}
