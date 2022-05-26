@@ -1,5 +1,5 @@
 module github.com/igor-baiborodine/bilberry-hugo-theme-sandbox
 
-go 1.13
+go 1.18
 
-require github.com/Lednerb/bilberry-hugo-theme/v3 v3.1.0 // indirect
+require github.com/igor-baiborodine/bilberry-hugo-theme v1.2.0 // indirect
