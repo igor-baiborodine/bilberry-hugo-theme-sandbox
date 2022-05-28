@@ -21,13 +21,16 @@ jobs:
       - name: Build
         run: |
           sed -i "s/baseURL = .*$/baseURL = \"https:\/\/igor-baiborodine.github.io\/bilberry-hugo-theme-sandbox\/\"/" config.toml
-          sed -i "s/theme = .*$/theme = \"github.com\/igor-baiborodine\/bilberry-hugo-theme\"/" config.toml
+          sed -i "s/theme = .*$/theme = \"github.com\/lednerb\/bilberry-hugo-theme\"/" config.toml
+          rm -rf themes/bilberry-hugo-theme
           hugo --minify
           > public/.nojekyll
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
+        if: success()
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          target_branch: gh-pages
+          build_dir: public
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
