@@ -21,7 +21,7 @@ jobs:
       - name: Build
         run: |
           sed -i "s/baseURL = .*$/baseURL = \"https:\/\/igor-baiborodine.github.io\/bilberry-hugo-theme-sandbox\/\"/" config.toml
-          sed -i "s/theme = .*$/theme = \"github.com\/lednerb\/bilberry-hugo-theme\/v3\"/" config.toml
+          sed -i "s/theme = .*$/theme = \"github.com\/Lednerb\/bilberry-hugo-theme\/v3\"/" config.toml
           rm -rf themes/bilberry-hugo-theme
           hugo --minify
           > public/.nojekyll
