@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Update GitHub Pages
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - master
 
 jobs:
-  deploy_gh_pages:
+  update_gh_pages:
     runs-on: ubuntu-latest
     steps:
       - name: Git Checkout
