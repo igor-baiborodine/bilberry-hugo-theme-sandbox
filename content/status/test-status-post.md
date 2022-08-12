@@ -1,7 +1,5 @@
 ---
 date: 2022-08-12T16:20:07-04:00
-
-icon: "fa-rocket"
 showDate: false
 ---
 
