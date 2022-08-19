@@ -1,4 +1,4 @@
 [submodule "themes/bilberry-hugo-theme"]
 	path = themes/bilberry-hugo-theme
 	url = https://github.com/Lednerb/bilberry-hugo-theme.git
-#  branch = idea/413-fix-width-for-images-within-figure-tag
+#  branch = idea/430-disable-reading-time-per-post
