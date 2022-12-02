@@ -1,0 +1,17 @@
+---
+title: "Test Series With Non-ASCII Name"
+date: 2022-12-02T16:38:36-05:00
+draft: false
+
+categories: [Series]
+tags: [Non-ASCII]
+toc: false
+author: "Igor"
+---
+
+Test article post with the series shortcode with a non-ASCII series name.
+
+<!--more-->
+
+Continue reading the series "視頻嵌入":
+{{< series "視頻嵌入" >}}
