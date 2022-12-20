@@ -2,8 +2,8 @@
 title: "Test Featured Image Resizing Via Front Matter Param"
 date: 2022-02-15T07:01:37-05:00
 
-categories: [Image]
-tags: [Featured, Resizing]
+categories: ["Image"]
+tags: ["Featured", "Resizing"]
 toc: false
 author: "Igor"
 featuredImage: "/article/test-featured-image-resizing-via-front-matter/russian-winter.png"

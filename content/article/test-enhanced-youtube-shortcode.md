@@ -3,8 +3,8 @@ title: "Test Enhanced youtube Shortcode in Article"
 date: 2022-05-10T08:27:11-04:00
 draft: false
 
-categories: [Video]
-tags: [YouTube, Shortcode]
+categories: ["Video"]
+tags: ["YouTube", "Shortcode"]
 toc: false
 author: "Igor"
 ---

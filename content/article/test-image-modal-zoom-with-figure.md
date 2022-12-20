@@ -2,8 +2,8 @@
 title: "Test Image Modal Zoom with Figure"
 date: 2022-07-29T07:25:37-05:00
 
-categories: [Image]
-tags: [Modal Zoom, Figure]
+categories: ["Image"]
+tags: ["Modal Zoom", "Figure"]
 toc: false
 author: "Igor"
 ---

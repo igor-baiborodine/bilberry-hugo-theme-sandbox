@@ -3,8 +3,8 @@ title: "Test Bilibili Embed Shortcode in Article"
 date: 2022-05-09T17:11:49-04:00
 draft: false
 
-categories: [Video]
-tags: [Bilibili, Shortcode]
+categories: ["Video"]
+tags: ["Bilibili", "Shortcode"]
 toc: false
 author: "Igor"
 ---

@@ -2,8 +2,8 @@
 title: "Test TuneIn in Article Post"
 date: 2021-11-24T07:34:00-05:00
 
-categories: [Audio]
-tags: [TuneIn]
+categories: ["Audio"]
+tags: ["TuneIn"]
 toc: false
 author: "Igor"
 ---
