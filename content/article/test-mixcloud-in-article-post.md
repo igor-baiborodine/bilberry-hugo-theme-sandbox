@@ -2,8 +2,8 @@
 title: "Test Mixcloud in Article Post"
 date: 2021-11-24T07:40:00-05:00
 
-categories: [Audio]
-tags: [Mixcloud]
+categories: ["Audio"]
+tags: ["Mixcloud"]
 toc: false
 author: "Igor"
 ---

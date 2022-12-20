@@ -2,8 +2,8 @@
 title: "Test improvements _article.scss"
 date: 2022-03-20T14:46:23-04:00
 
-categories: [CSS]
-tags: [Article]
+categories: ["CSS"]
+tags: ["Article"]
 toc: false
 author: "Igor"
 ---

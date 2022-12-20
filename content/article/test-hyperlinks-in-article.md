@@ -2,8 +2,8 @@
 title: "Test Hyperlinks Visibility in Article"
 date: 2022-01-18T16:21:15-05:00
 
-categories: [URL]
-tags: [Visibility]
+categories: ["URL"]
+tags: ["Visibility"]
 toc: false
 author: "Igor"
 ---

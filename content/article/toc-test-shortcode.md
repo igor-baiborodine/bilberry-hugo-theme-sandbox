@@ -3,10 +3,10 @@ title: "Toc Test Shortcode"
 date: 2020-09-19T09:08:52-04:00
 draft: false
 
-categories: [TOC]
-tags: [shortcode]
+categories: ["TOC"]
+tags: ["Shortcode"]
 toc: false
-series: "Articles With TOC"
+series: ["Articles With TOC"]
 author: "Igor"
 ---
 

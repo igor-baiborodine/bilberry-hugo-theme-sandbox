@@ -2,8 +2,8 @@
 title: "Test PeerTube Instance 2 Video in Article Post"
 date: 2022-01-12T20:55:20-05:00
 
-categories: [Video]
-tags: [PeerTube]
+categories: ["Video"]
+tags: ["PeerTube"]
 toc: false
 author: "Igor"
 ---

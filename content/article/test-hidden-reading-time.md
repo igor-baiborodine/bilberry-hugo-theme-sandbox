@@ -3,8 +3,8 @@ title: "Test Hidden Reading Time"
 date: 2022-08-19T08:18:33-04:00
 
 readingTime: 0
-categories: [Reading Time]
-tags: [Hidden]
+categories: ["Reading Time"]
+tags: ["Hidden"]
 toc: false
 author: "Igor"
 ---

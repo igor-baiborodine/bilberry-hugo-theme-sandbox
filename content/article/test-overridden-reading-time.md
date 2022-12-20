@@ -3,8 +3,8 @@ title: "Test Overridden Reading Time"
 date: 2022-08-19T08:17:33-04:00
 
 readingTime: 125
-categories: [Reading Time]
-tags: [Overridden]
+categories: ["Reading Time"]
+tags: ["Overridden"]
 toc: false
 author: "Igor"
 ---

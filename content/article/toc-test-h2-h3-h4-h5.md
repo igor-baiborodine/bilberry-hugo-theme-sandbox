@@ -3,10 +3,10 @@ title: "Toc Test H2 H3 H4 H5"
 date: 2020-09-18T06:59:34-04:00
 draft: false
 
-categories: [TOC]
+categories: ["TOC"]
 tags: []
 toc: true
-series: "Articles With TOC"
+series: ["Articles With TOC"]
 author: "Igor"
 ---
 

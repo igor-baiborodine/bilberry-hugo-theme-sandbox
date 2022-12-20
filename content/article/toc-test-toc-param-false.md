@@ -3,10 +3,10 @@ title: "Toc Test Toc Page Param False"
 date: 2020-09-18T07:44:32-04:00
 draft: false
 
-categories: [TOC]
+categories: ["TOC"]
 tags: []
 toc: false
-series: "Articles Without TOC"
+series: ["Articles Without TOC"]
 author: "Igor"
 ---
 

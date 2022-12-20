@@ -2,8 +2,8 @@
 title: "Test Estimated Reading Time"
 date: 2022-08-19T08:16:33-04:00
 
-categories: [Reading Time]
-tags: [Estimated]
+categories: ["Reading Time"]
+tags: ["Estimated"]
 toc: false
 author: "Igor"
 ---

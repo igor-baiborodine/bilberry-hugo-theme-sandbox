@@ -3,8 +3,8 @@ title: "Test Series With Non-ASCII Name"
 date: 2022-12-02T16:38:36-05:00
 draft: false
 
-categories: [Series]
-tags: [Non-ASCII]
+categories: ["Series"]
+tags: ["Non-ASCII"]
 toc: false
 author: "Igor"
 ---

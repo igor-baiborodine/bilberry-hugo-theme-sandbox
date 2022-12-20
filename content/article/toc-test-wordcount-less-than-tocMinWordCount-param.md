@@ -3,10 +3,10 @@ title: "Toc Test Wordcount Less Than tocMinWordCount Param"
 date: 2020-09-18T07:48:23-04:00
 draft: false
 
-categories: [TOC]
+categories: ["TOC"]
 tags: []
 toc: true
-series: "Articles Without TOC"
+series: ["Articles Without TOC"]
 author: "Igor"
 ---
 

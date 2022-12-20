@@ -2,8 +2,8 @@
 title: "Test Spotify in Article Post"
 date: 2021-11-24T07:36:00-05:00
 
-categories: [Audio]
-tags: [Spotify]
+categories: ["Audio"]
+tags: ["Spotify"]
 toc: false
 author: "Igor"
 ---
