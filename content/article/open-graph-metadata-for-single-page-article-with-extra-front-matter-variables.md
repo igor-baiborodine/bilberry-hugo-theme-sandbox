@@ -20,6 +20,6 @@ as `publishDate`, `lastmod`, `images`, `audio`, and `videos`.
 
 The generated page source should contain base Open Graph metadata tags such as `og:site_name`, `og:title`
 , `og:description`, `og:type`, `og:url`, `article:section`, `article:published_time`, `article:modified_time`
-, `og:image`, `og:audio`, and `video`.
+, `og:image`, `og:audio`, and `og:video`.
 
 
