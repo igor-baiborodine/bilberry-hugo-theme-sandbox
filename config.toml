@@ -126,8 +126,8 @@ disqusShortname = ""
 
     # credits line configuration
     copyrightBy = "Bilberry Sandbox"
-    copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
-    copyrightYearOverride = "2017"
+    copyrightUseCurrentYear = false  # set to true to always display the current year in the copyright
+    copyrightYearOverride = "2022"
     copyrightUrl = "https://github.com/Lednerb"
     creditsText = "Powered by Bilberry Hugo Theme"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
