@@ -9,9 +9,10 @@
             <div class="content">
                 <h1 class="article-title">{{ i18n "archive" }}</h1>
                 <div class="meta"></div>
-                <p>Igor here</p>
                 <div class="archive-list">
-                    {{ range (where .Site.RegularPages "Type" "not in" (slice "page" "archive" "status" ) ).GroupByPublishDate (.Site.Params.archiveDateGrouping | default "2006-01") }}
+                    {{ $archivePages := where .Site.RegularPages "Type" "not in" (slice "page" "archive" "status" ) }}
+                    {{ $pagesToDisplayCount := sub ($archivePages | len) 20 }}
+                    {{ range (last $pagesToDisplayCount $archivePages).GroupByPublishDate (.Site.Params.archiveDateGrouping | default "2006-01") }}
                     <h4>{{ .Key }}</h4>
                     <ul>
                         {{ range .Pages }}
