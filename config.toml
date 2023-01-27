@@ -152,17 +152,6 @@ disqusShortname = ""
   [Languages.en]
     weight = 1
 
-# don't change anything below
-[taxonomies]
-  author   = "author"
-  tag      = "tags"
-  category = "categories"
-  series   = "series"
-
-[outputs]
-  home = [ "HTML", "JSON", "RSS" ]
-  page = [ "HTML" ]
-
 [markup]
   defaultMarkdownHandler = 'goldmark'
   [markup.goldmark]
@@ -173,3 +162,14 @@ disqusShortname = ""
     endLevel = 5
     ordered = false
     startLevel = 2
+
+# don't change anything below
+[taxonomies]
+  author   = "author"
+  tag      = "tags"
+  category = "categories"
+  series   = "series"
+
+[outputs]
+  home = [ "HTML", "JSON", "RSS" ]
+  page = [ "HTML" ]
