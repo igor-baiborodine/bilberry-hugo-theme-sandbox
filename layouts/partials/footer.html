@@ -18,7 +18,6 @@
 
         {{ if and .Site.Taxonomies.categories (gt ( .Site.Params.amountCategoriesInFooter | default 7 ) 0 ) }}
         <div class="categories">
-            Igor here
             <a href="{{ "categories/" | relLangURL }}"><strong>{{ i18n "categories" }}</strong></a>
             <ul>
                 {{ range $order, $taxonomy := (first ( .Site.Params.amountCategoriesInFooter | default 7 ) .Site.Taxonomies.categories.ByCount) }}
