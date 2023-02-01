@@ -1,4 +1,4 @@
 [submodule "themes/bilberry-hugo-theme"]
 	path = themes/bilberry-hugo-theme
 	url = https://github.com/Lednerb/bilberry-hugo-theme.git
-    branch = issue/482-archive-page-displayed-in-latest-posts
+#    branch = issue/482-archive-page-displayed-in-latest-posts
