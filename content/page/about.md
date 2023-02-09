@@ -5,6 +5,7 @@ showDate: false
 weight: 1
 excludeFromTopNav: false
 showComments: false
+readingTime: 0
 ---
 
 This website serves as a sandbox to develop, test, and maintain the Bilberry Hugo theme.
