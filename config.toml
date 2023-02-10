@@ -68,10 +68,10 @@ disqusShortname = ""
 
     # always display the top navigation when scrolling
     # works only with permanentTopNav = true
-    stickyNav = false
+    stickyNav = true
 
     # show a language chooser in the header
-    showHeaderLanguageChooser = false
+    showHeaderLanguageChooser = true
 
   # Content configuration
     # Enable an optional pinned page to display at the top of the index
@@ -151,6 +151,10 @@ disqusShortname = ""
 [Languages]
   [Languages.en]
     weight = 1
+  [Languages.ru]
+    weight = 1
+    title = "Черничная Песочница"
+    subtitle = "Необработанный HTML активирован!"
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
