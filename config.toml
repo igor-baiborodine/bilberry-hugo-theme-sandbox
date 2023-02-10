@@ -68,7 +68,7 @@ disqusShortname = ""
 
     # always display the top navigation when scrolling
     # works only with permanentTopNav = true
-    stickyNav = false
+    stickyNav = true
 
     # show a language chooser in the header
     showHeaderLanguageChooser = true
