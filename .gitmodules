@@ -1,4 +1,4 @@
 [submodule "themes/bilberry-hugo-theme"]
 	path = themes/bilberry-hugo-theme
 	url = https://github.com/Lednerb/bilberry-hugo-theme.git
-    branch = fix/issue-499-continue-reading-link-not-displayed
+#     branch = fix/issue-499-continue-reading-link-not-displayed
