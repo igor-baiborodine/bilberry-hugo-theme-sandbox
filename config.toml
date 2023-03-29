@@ -1,6 +1,6 @@
-title = "Bilberry Sandbox"
+title = "Bilberry v4 Sandbox"
 baseURL = "https://www.bilberry-sandbox.kiroule.com/"
-theme = "bilberry-hugo-theme"
+theme = "bilberry-hugo-theme/v4"
 
 # Generate the robots.txt file for SEO
 enableRobotsTXT = true

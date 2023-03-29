@@ -20,6 +20,7 @@ jobs:
 
       - name: Build
         run: |
+          sed -i "s/theme = .*$/title = \"Bilberry Sandbox\"/" config.toml
           sed -i "s/baseURL = .*$/baseURL = \"https:\/\/igor-baiborodine.github.io\/bilberry-hugo-theme-sandbox\/\"/" config.toml
           sed -i "s/theme = .*$/theme = \"github.com\/Lednerb\/bilberry-hugo-theme\/v3\"/" config.toml
           hugo mod get
