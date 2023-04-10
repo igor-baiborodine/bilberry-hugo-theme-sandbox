@@ -1,4 +1,4 @@
 [submodule "themes/bilberry-hugo-theme"]
 	path = themes/bilberry-hugo-theme
 	url = https://github.com/Lednerb/bilberry-hugo-theme.git
-    branch = feat/v4-hugo-built-in-code-highlighting
+#     branch = feat/v4-hugo-built-in-code-highlighting
