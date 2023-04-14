@@ -10,7 +10,7 @@ toc: false
 author: "Igor"
 ---
 
-This post tests new icons introduced in Font Awesome v6.
+This post tests upgrade to Font Awesome v6.
 
 <i class="fa fa-thin fa-hippo"></i>
 <i class="fa fa-thin fa-hippo" style="font-size:24px"></i>
