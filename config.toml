@@ -15,12 +15,16 @@ googleAnalytics = "G-HE5BVSN9FB"
 disqusShortname = ""
 
 [params]
+  env = "LOCAL"
+
+  # baseColor = "#ff8080"
+
   # Custom CSS / JS modules that will be imported by the template.
   # Files are relative to the static/ directory or a URL.
   # Files are imported in the order they appear here, after
   # theme.css and theme.js, respectively.
-  css_modules = []
-  js_modules = []
+  css_modules = ["//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css"]
+  js_modules = ["//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js", "init-cookieconsent.js"]
 
   # Description and meta data for the search engines
   author = "Lednerb"
