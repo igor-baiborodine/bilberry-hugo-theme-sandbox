@@ -17,7 +17,7 @@ disqusShortname = ""
 [params]
   # env = "LOCAL"
 
-  baseColor = "#ff8080"
+  # baseColor = "#ff8080"
 
   # Custom CSS / JS modules that will be imported by the template.
   # Files are relative to the static/ directory or a URL.
