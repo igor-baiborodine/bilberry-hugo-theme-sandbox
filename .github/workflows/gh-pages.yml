@@ -15,17 +15,13 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.109.0'
+          hugo-version: latest
           extended: true
 
       - name: Build
         run: |
+          ./update-version.sh
           sed -i "s/baseURL = .*$/baseURL = \"https:\/\/igor-baiborodine.github.io\/bilberry-hugo-theme-sandbox\/\"/" config.toml
-          sed -i "s/theme = .*$/theme = \"github.com\/Lednerb\/bilberry-hugo-theme\/v4\"/" config.toml
-          hugo mod get
-          version=$(grep -Po '(?<=v4\s)[^\s//]+' go.mod)
-          sed -i "s/creditsText = .*$/creditsText = \"Bilberry Hugo Theme $version\"/" config.toml
-          sed -i "s/creditsUrl = .*$/creditsUrl = \"https:\/\/github.com\/Lednerb\/bilberry-hugo-theme\/tree\/$version\"/" config.toml
           rm -rf themes/bilberry-hugo-theme
           hugo -b "https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/"
           > public/.nojekyll
