@@ -21,9 +21,11 @@ jobs:
       - name: Build
         run: |
           ./update-version.sh
-          sed -i "s/baseURL = .*$/baseURL = \"https:\/\/igor-baiborodine.github.io\/bilberry-hugo-theme-sandbox\"/" config.toml
+          sed -i "s/baseURL = .*$/baseURL = \"https:\/\/igor-baiborodine.github.io\/bilberry-hugo-theme-sandbox\/\"/" config.toml
           rm -rf themes/bilberry-hugo-theme
-          hugo -b "https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox"
+          hugo -b "https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/"
+          > public/.nojekyll
+          cat config.toml
 
       - name: Deploy
         if: success()
