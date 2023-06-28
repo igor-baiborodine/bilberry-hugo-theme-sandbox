@@ -16,7 +16,7 @@ googleAnalytics = "G-HE5BVSN9FB"
 disqusShortname = ""
 
 [params]
-  # env = "LOCAL"
+  # env = "DEV"
 
   # baseColor = "#ff8080"
 
