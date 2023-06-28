@@ -25,7 +25,7 @@ jobs:
           rm -rf themes/bilberry-hugo-theme
           hugo -b "https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/"
           > public/.nojekyll
-          ./update-css.sh
+          cat config.toml
 
       - name: Deploy
         if: success()
