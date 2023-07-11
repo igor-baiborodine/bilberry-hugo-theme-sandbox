@@ -21,6 +21,7 @@ jobs:
       - name: Build
         run: |
           ./update-version.sh
+          sed -i "s/title = .*$/title = \"Bilberry v4 Sandbox\"/" config.toml
           sed -i "s/baseURL = .*$/baseURL = \"https:\/\/igor-baiborodine.github.io\/bilberry-hugo-theme-sandbox\/\"/" config.toml
           sed -i "s/# env = .*$/env = \"DEV\"/" config.toml
           rm -rf themes/bilberry-hugo-theme

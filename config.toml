@@ -1,6 +1,6 @@
-title = "Bilberry v4 Sandbox"
+title = "Bilberry v3 Sandbox"
 baseURL = "https://www.bilberry-sandbox.kiroule.com/"
-theme = "bilberry-hugo-theme/v4"
+theme = "bilberry-hugo-theme"
 canonifyurls = true
 
 # Generate the robots.txt file for SEO
