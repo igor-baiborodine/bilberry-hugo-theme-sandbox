@@ -8,14 +8,11 @@ toc: false
 author: "Igor"
 ---
 
-This post tests image modal zoom for an image with the `<figure>` tag. 
+This post tests image modal zoom for an image with the title property which should trigger displaying it as `<figure>`. 
 
 <!--more-->
 
 The original image size is 1920 x 1080, which is larger than the content area. 
 To see a larger image, click on it.
 
-<figure>
-    <img src="/img/content/article/test-image-modal-zoom/russian-winter.jpg" alt="Russian Winter">
-    <figcaption>Fig.1 - Russian Winter</figcaption>
-</figure>
+![Russian Winter](/img/content/article/test-image-modal-zoom/russian-winter.jpg "Fig.1 - Russian Winter")
