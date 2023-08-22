@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TOC on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/toc/</link>
+    <description>Recent content in TOC on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 05 Oct 2020 06:53:18 -0400</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/toc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Shortcode Series With TOC</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-shortcode-series-with-toc/</link>
+      <pubDate>Mon, 05 Oct 2020 06:53:18 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-shortcode-series-with-toc/</guid>
+      <description>&lt;p&gt;Display list of articles for the &amp;ldquo;Articles with TOC&amp;rdquo; series.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

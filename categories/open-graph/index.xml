@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Graph on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/categories/open-graph/</link>
+    <description>Recent content in Open Graph on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 19 Dec 2022 19:00:00 -0500</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/categories/open-graph/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Graph Metadata for Single Page Article with Extra Front Matter Variables</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/open-graph-metadata-for-single-page-article-with-extra-front-matter-variables/</link>
+      <pubDate>Mon, 19 Dec 2022 19:00:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/open-graph-metadata-for-single-page-article-with-extra-front-matter-variables/</guid>
+      <description>&lt;p&gt;This post tests Open Graph metadata added to article created as a single page with extra front matter variables such
+as &lt;code&gt;publishDate&lt;/code&gt;, &lt;code&gt;lastmod&lt;/code&gt;, &lt;code&gt;images&lt;/code&gt;, &lt;code&gt;audio&lt;/code&gt;, and &lt;code&gt;videos&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Open Graph Metadata for Single Page Article</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/open-graph-metadata-for-single-page-article/</link>
+      <pubDate>Mon, 19 Dec 2022 18:00:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/open-graph-metadata-for-single-page-article/</guid>
+      <description>&lt;p&gt;This post tests Open Graph metadata added to article created as a single page.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

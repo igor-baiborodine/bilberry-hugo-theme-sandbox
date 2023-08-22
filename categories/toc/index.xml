@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TOC on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/categories/toc/</link>
+    <description>Recent content in TOC on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 19 Sep 2020 09:08:52 -0400</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/categories/toc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toc Test Shortcode</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-shortcode/</link>
+      <pubDate>Sat, 19 Sep 2020 09:08:52 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-shortcode/</guid>
+      <description>&lt;p&gt;Test TOC creation via shortcode&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Toc Test Wordcount Less Than tocMinWordCount Param</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-wordcount-less-than-tocminwordcount-param/</link>
+      <pubDate>Fri, 18 Sep 2020 07:48:23 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-wordcount-less-than-tocminwordcount-param/</guid>
+      <description>&lt;p&gt;Test TOC word count is less than the value specified for tocMinWordCount param in the config.toml file.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Toc Test Toc Page Param False</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-toc-param-false/</link>
+      <pubDate>Fri, 18 Sep 2020 07:44:32 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-toc-param-false/</guid>
+      <description>&lt;p&gt;Test TOC disable automatic creation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Toc Test H3</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-h3/</link>
+      <pubDate>Fri, 18 Sep 2020 07:40:45 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-h3/</guid>
+      <description>&lt;p&gt;Test TOC creation for level 3 only&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Toc Test H2 H3 H4 H5</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-h2-h3-h4-h5/</link>
+      <pubDate>Fri, 18 Sep 2020 06:59:34 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-h2-h3-h4-h5/</guid>
+      <description>&lt;p&gt;Test TOC creation from start level 2 to end level 5&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

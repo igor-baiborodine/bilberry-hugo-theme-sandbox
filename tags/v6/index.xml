@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>v6 on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/v6/</link>
+    <description>Recent content in v6 on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 13 Apr 2023 08:37:42 -0400</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/v6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Font Awesome V6 Icons</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-fontawesome-v6-icons/</link>
+      <pubDate>Thu, 13 Apr 2023 08:37:42 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-fontawesome-v6-icons/</guid>
+      <description>This post tests upgrade to Font Awesome v6.</description>
+    </item>
+    
+  </channel>
+</rss>

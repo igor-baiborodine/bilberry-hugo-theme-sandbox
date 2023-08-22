@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bilibili on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/bilibili/</link>
+    <description>Recent content in Bilibili on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 09 May 2022 17:11:49 -0400</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/bilibili/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Bilibili Embed Shortcode in Article</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-bilibili-embed-shortcode/</link>
+      <pubDate>Mon, 09 May 2022 17:11:49 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-bilibili-embed-shortcode/</guid>
+      <description>&lt;p&gt;Test Bilibili embed shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Bilibili Video in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-bilibili-video-in-article-post/</link>
+      <pubDate>Wed, 15 Dec 2021 07:39:01 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-bilibili-video-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a Bilibili video via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Bilibili Video in Video Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-bilibili-video-in-video-post/</link>
+      <pubDate>Wed, 15 Dec 2021 07:38:28 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-bilibili-video-in-video-post/</guid>
+      <description>Test video post with a Bilibili video.</description>
+    </item>
+    
+  </channel>
+</rss>

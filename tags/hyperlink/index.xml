@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyperlink on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/hyperlink/</link>
+    <description>Recent content in Hyperlink on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 18 Dec 2022 11:59:25 -0500</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/hyperlink/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Image as Hyperlink</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-image-as-hyperlink/</link>
+      <pubDate>Sun, 18 Dec 2022 11:59:25 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-image-as-hyperlink/</guid>
+      <description>&lt;p&gt;This post tests image as a hyperlink.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

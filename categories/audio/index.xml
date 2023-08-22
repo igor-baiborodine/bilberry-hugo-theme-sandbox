@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audio on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/categories/audio/</link>
+    <description>Recent content in Audio on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 24 Nov 2021 07:47:00 -0500</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/categories/audio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test External Ogg Audio in Audio Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-external-ogg-audio-in-audio-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:47:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-external-ogg-audio-in-audio-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test WAV audio in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-wav-audio-in-article-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:46:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-wav-audio-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a &lt;strong&gt;WAV&lt;/strong&gt; track via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test WAW Audio in Audio Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-wav-audio-in-audio-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:45:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-wav-audio-in-audio-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Ogg audio in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-ogg-audio-in-article-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:44:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-ogg-audio-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with an &lt;strong&gt;Ogg&lt;/strong&gt; track via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Ogg Audio in Audio Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-ogg-audio-in-audio-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:43:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-ogg-audio-in-audio-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test MP3 audio in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-mp3-audio-in-article-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:42:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-mp3-audio-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a &lt;strong&gt;MP3&lt;/strong&gt; track via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test MP3 Audio in Audio Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-mp3-audio-in-audio-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:41:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-mp3-audio-in-audio-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Mixcloud in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-mixcloud-in-article-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:40:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-mixcloud-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a &lt;strong&gt;Mixcloud&lt;/strong&gt; track via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Mixcloud in Audio Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-mixcloud-in-audio-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:39:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-mixcloud-in-audio-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test SoundCloud in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-soundcloud-in-article-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:38:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-soundcloud-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a &lt;strong&gt;SoundCloud&lt;/strong&gt; track via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test SoundCloud in Audio Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-soundcloud-in-audio-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:37:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-soundcloud-in-audio-post/</guid>
+      <description>Test audio post with a SoundCloud track.</description>
+    </item>
+    
+    <item>
+      <title>Test Spotify in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-spotify-in-article-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:36:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-spotify-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a &lt;strong&gt;Spotify&lt;/strong&gt; track via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Spotify in Audio Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-spotify-in-audio-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:35:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-spotify-in-audio-post/</guid>
+      <description>Test audio post with a Spotify track.</description>
+    </item>
+    
+    <item>
+      <title>Test TuneIn in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-tunein-in-article-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:34:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-tunein-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a &lt;strong&gt;TuneIn&lt;/strong&gt; track via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test TuneIn in Audio Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-tunein-in-audio-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:33:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-tunein-in-audio-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

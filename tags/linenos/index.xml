@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linenos on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/linenos/</link>
+    <description>Recent content in linenos on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 05 Apr 2023 08:07:01 -0400</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/linenos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Hugo Built-in Syntax Highlighting</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-hugo-syntax-highlighting/</link>
+      <pubDate>Wed, 05 Apr 2023 08:07:01 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-hugo-syntax-highlighting/</guid>
+      <description>&lt;p&gt;Test article post with blocks of Go and Java code highlighted via Hugo&amp;rsquo;s built-in Chroma (monokai).&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

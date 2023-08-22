@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Base Metadata on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/base-metadata/</link>
+    <description>Recent content in Base Metadata on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 19 Dec 2022 18:00:00 -0500</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/base-metadata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Graph Metadata for Single Page Article</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/open-graph-metadata-for-single-page-article/</link>
+      <pubDate>Mon, 19 Dec 2022 18:00:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/open-graph-metadata-for-single-page-article/</guid>
+      <description>&lt;p&gt;This post tests Open Graph metadata added to article created as a single page.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

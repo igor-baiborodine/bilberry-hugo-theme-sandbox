@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statuses on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/status/</link>
+    <description>Recent content in Statuses on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 12 Aug 2022 16:20:07 -0400</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/status/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/status/test-status-post/</link>
+      <pubDate>Fri, 12 Aug 2022 16:20:07 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/status/test-status-post/</guid>
+      <description>Test status post: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer venenatis efficitur neque non blandit. Nunc eget quam ullamcorper, faucibus mi sit amet, accumsan sapien. Pellentesque sodales justo quis libero faucibus consectetur. Aliquam vestibulum enim libero, in mollis libero ultrices sit amet. Donec ut sem mi. Nullam leo justo, ultricies id dui a, pretium interdum tellus. Pellentesque ullamcorper lacus facilisis, tristique erat consectetur, posuere nibh. Nunc eget sollicitudin tortor, a pellentesque dui.</description>
+    </item>
+    
+  </channel>
+</rss>

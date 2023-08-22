@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pinned on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/categories/pinned/</link>
+    <description>Recent content in Pinned on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 12 Oct 2020 22:22:06 -0400</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/categories/pinned/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pinned Post Test 1st by Date</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/pinned-post-test-1st-by-date/</link>
+      <pubDate>Mon, 12 Oct 2020 22:22:06 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/pinned-post-test-1st-by-date/</guid>
+      <description>&lt;p&gt;This post should be pinned FIRST by DATE.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pinned Post Test 2nd by Date</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/pinned-post-test-2nd-by-date/</link>
+      <pubDate>Sun, 11 Oct 2020 22:22:06 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/pinned-post-test-2nd-by-date/</guid>
+      <description>&lt;p&gt;This post should be pinned SECOND by DATE.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/article/</link>
+    <description>Recent content in Article on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Feb 2023 07:53:00 -0500</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Multi-language Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-multilanguage-post/</link>
+      <pubDate>Thu, 09 Feb 2023 07:53:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-multilanguage-post/</guid>
+      <description>Test English language post.</description>
+    </item>
+    
+    <item>
+      <title>Test improvements _article.scss</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-article-css/</link>
+      <pubDate>Sun, 20 Mar 2022 14:46:23 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-article-css/</guid>
+      <description>&lt;p&gt;Test improvements in _article.scss.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

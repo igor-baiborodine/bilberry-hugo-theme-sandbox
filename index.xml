@@ -1,0 +1,572 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/</link>
+    <description>Recent content on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 13 Apr 2023 08:37:42 -0400</lastBuildDate>
+    
+        <atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Font Awesome V6 Icons</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-fontawesome-v6-icons/</link>
+      <pubDate>Thu, 13 Apr 2023 08:37:42 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-fontawesome-v6-icons/</guid>
+      <description>This post tests upgrade to Font Awesome v6.</description>
+    </item>
+    
+    <item>
+      <title>Test Hugo Built-in Syntax Highlighting</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-hugo-syntax-highlighting/</link>
+      <pubDate>Wed, 05 Apr 2023 08:07:01 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-hugo-syntax-highlighting/</guid>
+      <description>&lt;p&gt;Test article post with blocks of Go and Java code highlighted via Hugo&amp;rsquo;s built-in Chroma (monokai).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Summary Split With Front Matter Variable</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-summary-split-with-front-matter-variable/</link>
+      <pubDate>Sun, 19 Feb 2023 12:32:04 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-summary-split-with-front-matter-variable/</guid>
+      <description>Test summary split with the front matter variable.</description>
+    </item>
+    
+    <item>
+      <title>Test Multi-language Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-multilanguage-post/</link>
+      <pubDate>Thu, 09 Feb 2023 07:53:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-multilanguage-post/</guid>
+      <description>Test English language post.</description>
+    </item>
+    
+    <item>
+      <title>Open Graph Metadata for Single Page Article with Extra Front Matter Variables</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/open-graph-metadata-for-single-page-article-with-extra-front-matter-variables/</link>
+      <pubDate>Mon, 19 Dec 2022 19:00:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/open-graph-metadata-for-single-page-article-with-extra-front-matter-variables/</guid>
+      <description>&lt;p&gt;This post tests Open Graph metadata added to article created as a single page with extra front matter variables such
+as &lt;code&gt;publishDate&lt;/code&gt;, &lt;code&gt;lastmod&lt;/code&gt;, &lt;code&gt;images&lt;/code&gt;, &lt;code&gt;audio&lt;/code&gt;, and &lt;code&gt;videos&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Open Graph Metadata for Single Page Article</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/open-graph-metadata-for-single-page-article/</link>
+      <pubDate>Mon, 19 Dec 2022 18:00:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/open-graph-metadata-for-single-page-article/</guid>
+      <description>&lt;p&gt;This post tests Open Graph metadata added to article created as a single page.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Image as Hyperlink</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-image-as-hyperlink/</link>
+      <pubDate>Sun, 18 Dec 2022 11:59:25 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-image-as-hyperlink/</guid>
+      <description>&lt;p&gt;This post tests image as a hyperlink.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Series With Non-ASCII Name</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-series-with-non-ascii-name/</link>
+      <pubDate>Fri, 02 Dec 2022 16:38:36 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-series-with-non-ascii-name/</guid>
+      <description>&lt;p&gt;Test article post with the series shortcode with a non-ASCII series name.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Hidden Reading Time</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-hidden-reading-time/</link>
+      <pubDate>Fri, 19 Aug 2022 08:18:33 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-hidden-reading-time/</guid>
+      <description>&lt;p&gt;Should NOT display the reading time.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Overridden Reading Time</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-overridden-reading-time/</link>
+      <pubDate>Fri, 19 Aug 2022 08:17:33 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-overridden-reading-time/</guid>
+      <description>&lt;p&gt;Should display &amp;ldquo;125 MIN READ&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Estimated Reading Time</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-estimated-reading-time/</link>
+      <pubDate>Fri, 19 Aug 2022 08:16:33 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-estimated-reading-time/</guid>
+      <description>&lt;p&gt;Should display the estimated reading time.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/status/test-status-post/</link>
+      <pubDate>Fri, 12 Aug 2022 16:20:07 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/status/test-status-post/</guid>
+      <description>Test status post: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer venenatis efficitur neque non blandit. Nunc eget quam ullamcorper, faucibus mi sit amet, accumsan sapien. Pellentesque sodales justo quis libero faucibus consectetur. Aliquam vestibulum enim libero, in mollis libero ultrices sit amet. Donec ut sem mi. Nullam leo justo, ultricies id dui a, pretium interdum tellus. Pellentesque ullamcorper lacus facilisis, tristique erat consectetur, posuere nibh. Nunc eget sollicitudin tortor, a pellentesque dui.</description>
+    </item>
+    
+    <item>
+      <title>Test Image Modal Zoom with Figure</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-image-modal-zoom-with-figure/</link>
+      <pubDate>Fri, 29 Jul 2022 07:25:37 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-image-modal-zoom-with-figure/</guid>
+      <description>&lt;p&gt;This post tests image modal zoom for an image with the title property which should trigger displaying it as &lt;code&gt;&amp;lt;figure&amp;gt;&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Enhanced youtube Shortcode in Article</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-enhanced-youtube-shortcode/</link>
+      <pubDate>Tue, 10 May 2022 08:27:11 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-enhanced-youtube-shortcode/</guid>
+      <description>&lt;p&gt;Test article post with a YouTube video via custom enhanced shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Bilibili Embed Shortcode in Article</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-bilibili-embed-shortcode/</link>
+      <pubDate>Mon, 09 May 2022 17:11:49 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-bilibili-embed-shortcode/</guid>
+      <description>&lt;p&gt;Test Bilibili embed shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Raw HTML iframe Embed in Article</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-raw-html-iframe-embed/</link>
+      <pubDate>Mon, 09 May 2022 07:43:01 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-raw-html-iframe-embed/</guid>
+      <description>&lt;p&gt;Test article post with a raw HTML &lt;code&gt;iframe&lt;/code&gt; embed.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Hugo youtube Shortcode in Article</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-hugo-youtube-shortcode/</link>
+      <pubDate>Mon, 02 May 2022 08:27:11 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-hugo-youtube-shortcode/</guid>
+      <description>&lt;p&gt;Test article post with a YouTube video via Hugo&amp;rsquo;s shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test improvements _article.scss</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-article-css/</link>
+      <pubDate>Sun, 20 Mar 2022 14:46:23 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-article-css/</guid>
+      <description>&lt;p&gt;Test improvements in _article.scss.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Featured Image Resizing</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-featured-image-resizing/</link>
+      <pubDate>Tue, 15 Feb 2022 07:01:37 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-featured-image-resizing/</guid>
+      <description>&lt;p&gt;Since the featured image is named as &lt;code&gt;featuredImage.*&lt;/code&gt;, it is cropped and resized to 700x350 size using the &lt;code&gt;Fill&lt;/code&gt; method.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Featured Image Resizing Via Front Matter Param</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-featured-image-resizing-via-front-matter/</link>
+      <pubDate>Tue, 15 Feb 2022 07:01:37 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-featured-image-resizing-via-front-matter/</guid>
+      <description>&lt;p&gt;Since the featured image is set via the front matter &lt;code&gt;featuredImage&lt;/code&gt; param, it is NOT resized.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Link With External Featured Image</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/link/test-link-with-featured-image/</link>
+      <pubDate>Mon, 31 Jan 2022 07:57:45 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/link/test-link-with-featured-image/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Test Hyperlinks Visibility in Article</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-hyperlinks-in-article/</link>
+      <pubDate>Tue, 18 Jan 2022 16:21:15 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-hyperlinks-in-article/</guid>
+      <description>&lt;p&gt;No &lt;a href=&#34;https://dictionary.cambridge.org/dictionary/english/opinion&#34;&gt;opinions&lt;/a&gt; answered oh felicity is resolved hastened. Produced it friendly my if opinions humoured.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test PeerTube Instance 2 Video in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-peertube-instance-2-video-in-article-post/</link>
+      <pubDate>Wed, 12 Jan 2022 20:55:20 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-peertube-instance-2-video-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a PeerTube instance 2 video via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test PeerTube Instance 1 Video in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-peertube-instance-1-video-in-article-post/</link>
+      <pubDate>Wed, 12 Jan 2022 19:55:20 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-peertube-instance-1-video-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a PeerTube instance 1 video via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Peertube Instance 2 Video in Video Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-peertube-instance-2-video-in-video-post/</link>
+      <pubDate>Wed, 12 Jan 2022 18:55:20 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-peertube-instance-2-video-in-video-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Peertube Instance 1 Video in Video Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-peertube-instance-1-video-in-video-post/</link>
+      <pubDate>Wed, 12 Jan 2022 17:55:20 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-peertube-instance-1-video-in-video-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Bilibili Video in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-bilibili-video-in-article-post/</link>
+      <pubDate>Wed, 15 Dec 2021 07:39:01 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-bilibili-video-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a Bilibili video via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Bilibili Video in Video Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-bilibili-video-in-video-post/</link>
+      <pubDate>Wed, 15 Dec 2021 07:38:28 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-bilibili-video-in-video-post/</guid>
+      <description>Test video post with a Bilibili video.</description>
+    </item>
+    
+    <item>
+      <title>Test Image Modal Zoom</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-image-modal-zoom/</link>
+      <pubDate>Tue, 14 Dec 2021 07:25:37 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-image-modal-zoom/</guid>
+      <description>&lt;p&gt;This post tests image modal zoom.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test External Ogg Audio in Audio Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-external-ogg-audio-in-audio-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:47:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-external-ogg-audio-in-audio-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test WAV audio in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-wav-audio-in-article-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:46:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-wav-audio-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a &lt;strong&gt;WAV&lt;/strong&gt; track via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test WAW Audio in Audio Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-wav-audio-in-audio-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:45:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-wav-audio-in-audio-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Ogg audio in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-ogg-audio-in-article-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:44:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-ogg-audio-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with an &lt;strong&gt;Ogg&lt;/strong&gt; track via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Ogg Audio in Audio Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-ogg-audio-in-audio-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:43:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-ogg-audio-in-audio-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test MP3 audio in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-mp3-audio-in-article-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:42:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-mp3-audio-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a &lt;strong&gt;MP3&lt;/strong&gt; track via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test MP3 Audio in Audio Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-mp3-audio-in-audio-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:41:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-mp3-audio-in-audio-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Mixcloud in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-mixcloud-in-article-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:40:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-mixcloud-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a &lt;strong&gt;Mixcloud&lt;/strong&gt; track via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Mixcloud in Audio Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-mixcloud-in-audio-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:39:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-mixcloud-in-audio-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test SoundCloud in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-soundcloud-in-article-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:38:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-soundcloud-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a &lt;strong&gt;SoundCloud&lt;/strong&gt; track via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test SoundCloud in Audio Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-soundcloud-in-audio-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:37:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-soundcloud-in-audio-post/</guid>
+      <description>Test audio post with a SoundCloud track.</description>
+    </item>
+    
+    <item>
+      <title>Test Spotify in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-spotify-in-article-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:36:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-spotify-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a &lt;strong&gt;Spotify&lt;/strong&gt; track via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Spotify in Audio Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-spotify-in-audio-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:35:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-spotify-in-audio-post/</guid>
+      <description>Test audio post with a Spotify track.</description>
+    </item>
+    
+    <item>
+      <title>Test TuneIn in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-tunein-in-article-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:34:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-tunein-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a &lt;strong&gt;TuneIn&lt;/strong&gt; track via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test TuneIn in Audio Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-tunein-in-audio-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:33:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-tunein-in-audio-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Raw HTML</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-raw-html/</link>
+      <pubDate>Wed, 17 Nov 2021 07:45:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-raw-html/</guid>
+      <description>&lt;p&gt;Test raw HTML within markdown content.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test MP4 Video in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-mp4-video-in-article-post/</link>
+      <pubDate>Fri, 16 Oct 2020 22:01:26 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-mp4-video-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a MP4 video via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Vimeo Video in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-vimeo-video-in-article-post/</link>
+      <pubDate>Thu, 15 Oct 2020 22:01:26 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-vimeo-video-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a Vimeo video via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Prezi Video in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-prezi-video-in-article-post/</link>
+      <pubDate>Wed, 14 Oct 2020 22:01:26 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-prezi-video-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a Prezi video via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test YouTube Video in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-youtube-video-in-article-post/</link>
+      <pubDate>Tue, 13 Oct 2020 22:01:26 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-youtube-video-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a YouTube video via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pinned Post Test 1st by Date</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/pinned-post-test-1st-by-date/</link>
+      <pubDate>Mon, 12 Oct 2020 22:22:06 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/pinned-post-test-1st-by-date/</guid>
+      <description>&lt;p&gt;This post should be pinned FIRST by DATE.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pinned Post Test 2nd by Date</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/pinned-post-test-2nd-by-date/</link>
+      <pubDate>Sun, 11 Oct 2020 22:22:06 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/pinned-post-test-2nd-by-date/</guid>
+      <description>&lt;p&gt;This post should be pinned SECOND by DATE.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Mp4 Video in Video Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-mp4-video-in-video-post/</link>
+      <pubDate>Sun, 11 Oct 2020 15:28:51 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-mp4-video-in-video-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Vimeo Video in Video Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-vimeo-video-in-video-post/</link>
+      <pubDate>Sat, 10 Oct 2020 22:07:04 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-vimeo-video-in-video-post/</guid>
+      <description>Test video post with a Vimeo video.</description>
+    </item>
+    
+    <item>
+      <title>Test Prezi Video in Video Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-prezi-video-in-video-post/</link>
+      <pubDate>Fri, 09 Oct 2020 22:07:04 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-prezi-video-in-video-post/</guid>
+      <description>Test video post with a Prezi video.</description>
+    </item>
+    
+    <item>
+      <title>Test YouTube Video in Video Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-youtube-video-in-video-post/</link>
+      <pubDate>Thu, 08 Oct 2020 22:07:04 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-youtube-video-in-video-post/</guid>
+      <description>Test video post with a YouTube video.</description>
+    </item>
+    
+    <item>
+      <title>Test Shortcode Series WITHOUT TOC</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-shortcode-series-without-toc/</link>
+      <pubDate>Mon, 05 Oct 2020 06:54:18 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-shortcode-series-without-toc/</guid>
+      <description>&lt;p&gt;Display list of articles for the &amp;ldquo;Articles WITHOUT TOC&amp;rdquo; series.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Shortcode Series With TOC</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-shortcode-series-with-toc/</link>
+      <pubDate>Mon, 05 Oct 2020 06:53:18 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-shortcode-series-with-toc/</guid>
+      <description>&lt;p&gt;Display list of articles for the &amp;ldquo;Articles with TOC&amp;rdquo; series.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Toc Test Shortcode</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-shortcode/</link>
+      <pubDate>Sat, 19 Sep 2020 09:08:52 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-shortcode/</guid>
+      <description>&lt;p&gt;Test TOC creation via shortcode&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Toc Test Wordcount Less Than tocMinWordCount Param</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-wordcount-less-than-tocminwordcount-param/</link>
+      <pubDate>Fri, 18 Sep 2020 07:48:23 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-wordcount-less-than-tocminwordcount-param/</guid>
+      <description>&lt;p&gt;Test TOC word count is less than the value specified for tocMinWordCount param in the config.toml file.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Toc Test Toc Page Param False</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-toc-param-false/</link>
+      <pubDate>Fri, 18 Sep 2020 07:44:32 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-toc-param-false/</guid>
+      <description>&lt;p&gt;Test TOC disable automatic creation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Toc Test H3</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-h3/</link>
+      <pubDate>Fri, 18 Sep 2020 07:40:45 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-h3/</guid>
+      <description>&lt;p&gt;Test TOC creation for level 3 only&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Toc Test H2 H3 H4 H5</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-h2-h3-h4-h5/</link>
+      <pubDate>Fri, 18 Sep 2020 06:59:34 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/toc-test-h2-h3-h4-h5/</guid>
+      <description>&lt;p&gt;Test TOC creation from start level 2 to end level 5&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/ru/tags/</link>
+    <description>Recent content in Tags on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Feb 2023 07:53:00 -0500</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/ru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Статья</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/ru/tags/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F/</link>
+      <pubDate>Thu, 09 Feb 2023 07:53:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/ru/tags/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

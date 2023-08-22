@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SoundCloud on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/soundcloud/</link>
+    <description>Recent content in SoundCloud on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 24 Nov 2021 07:38:00 -0500</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/soundcloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test SoundCloud in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-soundcloud-in-article-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:38:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-soundcloud-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a &lt;strong&gt;SoundCloud&lt;/strong&gt; track via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test SoundCloud in Audio Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-soundcloud-in-audio-post/</link>
+      <pubDate>Wed, 24 Nov 2021 07:37:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/audio/test-soundcloud-in-audio-post/</guid>
+      <description>Test audio post with a SoundCloud track.</description>
+    </item>
+    
+  </channel>
+</rss>

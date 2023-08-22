@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Front Matter Variable on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/front-matter-variable/</link>
+    <description>Recent content in Front Matter Variable on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 19 Feb 2023 12:32:04 -0500</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/front-matter-variable/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Summary Split With Front Matter Variable</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-summary-split-with-front-matter-variable/</link>
+      <pubDate>Sun, 19 Feb 2023 12:32:04 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-summary-split-with-front-matter-variable/</guid>
+      <description>Test summary split with the front matter variable.</description>
+    </item>
+    
+  </channel>
+</rss>

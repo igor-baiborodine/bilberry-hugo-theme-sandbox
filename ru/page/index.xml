@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/ru/page/</link>
+    <description>Recent content in Pages on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 29 Mar 2023 13:17:56 -0500</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/ru/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>О проекте</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/ru/page/about/</link>
+      <pubDate>Tue, 14 Dec 2021 07:54:47 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/ru/page/about/</guid>
+      <description>Этот веб-сайт служит тестовой средой для разработки, тестирования и поддержки темы Bilberry Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Архив</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/ru/page/archive/</link>
+      <pubDate>Tue, 07 Dec 2021 07:35:47 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/ru/page/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Гитхаб</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/ru/page/github/</link>
+      <pubDate>Wed, 29 Mar 2023 13:17:56 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/ru/page/github/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

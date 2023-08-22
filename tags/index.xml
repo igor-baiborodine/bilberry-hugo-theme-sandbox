@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/</link>
+    <description>Recent content in Tags on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 13 Apr 2023 08:37:42 -0400</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>v6</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/v6/</link>
+      <pubDate>Thu, 13 Apr 2023 08:37:42 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/v6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hl_lines</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/hl_lines/</link>
+      <pubDate>Wed, 05 Apr 2023 08:07:01 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/hl_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linenos</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/linenos/</link>
+      <pubDate>Wed, 05 Apr 2023 08:07:01 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/linenos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Front Matter Variable</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/front-matter-variable/</link>
+      <pubDate>Sun, 19 Feb 2023 12:32:04 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/front-matter-variable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/article/</link>
+      <pubDate>Thu, 09 Feb 2023 07:53:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extra Metadata</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/extra-metadata/</link>
+      <pubDate>Mon, 19 Dec 2022 19:00:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/extra-metadata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single Page</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/single-page/</link>
+      <pubDate>Mon, 19 Dec 2022 19:00:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/single-page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Base Metadata</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/base-metadata/</link>
+      <pubDate>Mon, 19 Dec 2022 18:00:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/base-metadata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperlink</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/hyperlink/</link>
+      <pubDate>Sun, 18 Dec 2022 11:59:25 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/hyperlink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-ASCII</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/non-ascii/</link>
+      <pubDate>Fri, 02 Dec 2022 16:38:36 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/non-ascii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hidden</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/hidden/</link>
+      <pubDate>Fri, 19 Aug 2022 08:18:33 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/hidden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overridden</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/overridden/</link>
+      <pubDate>Fri, 19 Aug 2022 08:17:33 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/overridden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimated</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/estimated/</link>
+      <pubDate>Fri, 19 Aug 2022 08:16:33 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/estimated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Figure</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/figure/</link>
+      <pubDate>Fri, 29 Jul 2022 07:25:37 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/figure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modal Zoom</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/modal-zoom/</link>
+      <pubDate>Fri, 29 Jul 2022 07:25:37 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/modal-zoom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortcode</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/shortcode/</link>
+      <pubDate>Tue, 10 May 2022 08:27:11 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/shortcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YouTube</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/youtube/</link>
+      <pubDate>Tue, 10 May 2022 08:27:11 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bilibili</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/bilibili/</link>
+      <pubDate>Mon, 09 May 2022 17:11:49 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/bilibili/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iframe</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/iframe/</link>
+      <pubDate>Mon, 09 May 2022 07:43:01 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/iframe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raw HTML</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/raw-html/</link>
+      <pubDate>Mon, 09 May 2022 07:43:01 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/raw-html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/featured/</link>
+      <pubDate>Tue, 15 Feb 2022 07:01:37 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resizing</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/resizing/</link>
+      <pubDate>Tue, 15 Feb 2022 07:01:37 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/resizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FeaturedImage</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/featuredimage/</link>
+      <pubDate>Mon, 31 Jan 2022 07:57:45 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/featuredimage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visibility</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/visibility/</link>
+      <pubDate>Tue, 18 Jan 2022 16:21:15 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/visibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PeerTube</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/peertube/</link>
+      <pubDate>Wed, 12 Jan 2022 20:55:20 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/peertube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/external/</link>
+      <pubDate>Wed, 24 Nov 2021 07:47:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/external/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ogg</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/ogg/</link>
+      <pubDate>Wed, 24 Nov 2021 07:47:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/ogg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WAV</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/wav/</link>
+      <pubDate>Wed, 24 Nov 2021 07:46:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/wav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WAW</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/waw/</link>
+      <pubDate>Wed, 24 Nov 2021 07:45:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/waw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MP3</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/mp3/</link>
+      <pubDate>Wed, 24 Nov 2021 07:42:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/mp3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixcloud</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/mixcloud/</link>
+      <pubDate>Wed, 24 Nov 2021 07:40:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/mixcloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoundCloud</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/soundcloud/</link>
+      <pubDate>Wed, 24 Nov 2021 07:38:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/soundcloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spotify</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/spotify/</link>
+      <pubDate>Wed, 24 Nov 2021 07:36:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/spotify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TuneIn</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/tunein/</link>
+      <pubDate>Wed, 24 Nov 2021 07:34:00 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/tunein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MP4</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/mp4/</link>
+      <pubDate>Fri, 16 Oct 2020 22:01:26 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/mp4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vimeo</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/vimeo/</link>
+      <pubDate>Thu, 15 Oct 2020 22:01:26 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/vimeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prezi</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/prezi/</link>
+      <pubDate>Wed, 14 Oct 2020 22:01:26 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/prezi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TOC</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/toc/</link>
+      <pubDate>Mon, 05 Oct 2020 06:53:18 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/toc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

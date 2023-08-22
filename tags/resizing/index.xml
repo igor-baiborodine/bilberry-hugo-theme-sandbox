@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resizing on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/resizing/</link>
+    <description>Recent content in Resizing on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Feb 2022 07:01:37 -0500</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/tags/resizing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Featured Image Resizing</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-featured-image-resizing/</link>
+      <pubDate>Tue, 15 Feb 2022 07:01:37 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-featured-image-resizing/</guid>
+      <description>&lt;p&gt;Since the featured image is named as &lt;code&gt;featuredImage.*&lt;/code&gt;, it is cropped and resized to 700x350 size using the &lt;code&gt;Fill&lt;/code&gt; method.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Featured Image Resizing Via Front Matter Param</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-featured-image-resizing-via-front-matter/</link>
+      <pubDate>Tue, 15 Feb 2022 07:01:37 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-featured-image-resizing-via-front-matter/</guid>
+      <description>&lt;p&gt;Since the featured image is set via the front matter &lt;code&gt;featuredImage&lt;/code&gt; param, it is NOT resized.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

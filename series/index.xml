@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/series/</link>
+    <description>Recent content in Series on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 15 Dec 2021 07:39:01 -0500</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>視頻嵌入</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/series/%E8%A6%96%E9%A0%BB%E5%B5%8C%E5%85%A5/</link>
+      <pubDate>Wed, 15 Dec 2021 07:39:01 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/series/%E8%A6%96%E9%A0%BB%E5%B5%8C%E5%85%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articles With TOC</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/series/articles-with-toc/</link>
+      <pubDate>Sat, 19 Sep 2020 09:08:52 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/series/articles-with-toc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articles Without TOC</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/series/articles-without-toc/</link>
+      <pubDate>Fri, 18 Sep 2020 07:48:23 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/series/articles-without-toc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

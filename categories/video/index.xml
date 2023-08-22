@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video on Bilberry v3 Sandbox</title>
+    <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/categories/video/</link>
+    <description>Recent content in Video on Bilberry v3 Sandbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 10 May 2022 08:27:11 -0400</lastBuildDate><atom:link href="https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/categories/video/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Enhanced youtube Shortcode in Article</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-enhanced-youtube-shortcode/</link>
+      <pubDate>Tue, 10 May 2022 08:27:11 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-enhanced-youtube-shortcode/</guid>
+      <description>&lt;p&gt;Test article post with a YouTube video via custom enhanced shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Bilibili Embed Shortcode in Article</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-bilibili-embed-shortcode/</link>
+      <pubDate>Mon, 09 May 2022 17:11:49 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-bilibili-embed-shortcode/</guid>
+      <description>&lt;p&gt;Test Bilibili embed shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Raw HTML iframe Embed in Article</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-raw-html-iframe-embed/</link>
+      <pubDate>Mon, 09 May 2022 07:43:01 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-raw-html-iframe-embed/</guid>
+      <description>&lt;p&gt;Test article post with a raw HTML &lt;code&gt;iframe&lt;/code&gt; embed.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Hugo youtube Shortcode in Article</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-hugo-youtube-shortcode/</link>
+      <pubDate>Mon, 02 May 2022 08:27:11 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-hugo-youtube-shortcode/</guid>
+      <description>&lt;p&gt;Test article post with a YouTube video via Hugo&amp;rsquo;s shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test PeerTube Instance 2 Video in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-peertube-instance-2-video-in-article-post/</link>
+      <pubDate>Wed, 12 Jan 2022 20:55:20 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-peertube-instance-2-video-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a PeerTube instance 2 video via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test PeerTube Instance 1 Video in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-peertube-instance-1-video-in-article-post/</link>
+      <pubDate>Wed, 12 Jan 2022 19:55:20 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-peertube-instance-1-video-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a PeerTube instance 1 video via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Peertube Instance 2 Video in Video Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-peertube-instance-2-video-in-video-post/</link>
+      <pubDate>Wed, 12 Jan 2022 18:55:20 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-peertube-instance-2-video-in-video-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Peertube Instance 1 Video in Video Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-peertube-instance-1-video-in-video-post/</link>
+      <pubDate>Wed, 12 Jan 2022 17:55:20 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-peertube-instance-1-video-in-video-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Bilibili Video in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-bilibili-video-in-article-post/</link>
+      <pubDate>Wed, 15 Dec 2021 07:39:01 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-bilibili-video-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a Bilibili video via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Bilibili Video in Video Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-bilibili-video-in-video-post/</link>
+      <pubDate>Wed, 15 Dec 2021 07:38:28 -0500</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-bilibili-video-in-video-post/</guid>
+      <description>Test video post with a Bilibili video.</description>
+    </item>
+    
+    <item>
+      <title>Test MP4 Video in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-mp4-video-in-article-post/</link>
+      <pubDate>Fri, 16 Oct 2020 22:01:26 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-mp4-video-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a MP4 video via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Vimeo Video in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-vimeo-video-in-article-post/</link>
+      <pubDate>Thu, 15 Oct 2020 22:01:26 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-vimeo-video-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a Vimeo video via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Prezi Video in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-prezi-video-in-article-post/</link>
+      <pubDate>Wed, 14 Oct 2020 22:01:26 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-prezi-video-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a Prezi video via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test YouTube Video in Article Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-youtube-video-in-article-post/</link>
+      <pubDate>Tue, 13 Oct 2020 22:01:26 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/article/test-youtube-video-in-article-post/</guid>
+      <description>&lt;p&gt;Test article post with a YouTube video via the shortcode.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Mp4 Video in Video Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-mp4-video-in-video-post/</link>
+      <pubDate>Sun, 11 Oct 2020 15:28:51 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-mp4-video-in-video-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Vimeo Video in Video Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-vimeo-video-in-video-post/</link>
+      <pubDate>Sat, 10 Oct 2020 22:07:04 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-vimeo-video-in-video-post/</guid>
+      <description>Test video post with a Vimeo video.</description>
+    </item>
+    
+    <item>
+      <title>Test Prezi Video in Video Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-prezi-video-in-video-post/</link>
+      <pubDate>Fri, 09 Oct 2020 22:07:04 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-prezi-video-in-video-post/</guid>
+      <description>Test video post with a Prezi video.</description>
+    </item>
+    
+    <item>
+      <title>Test YouTube Video in Video Post</title>
+      <link>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-youtube-video-in-video-post/</link>
+      <pubDate>Thu, 08 Oct 2020 22:07:04 -0400</pubDate>
+      
+      <guid>https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/video/test-youtube-video-in-video-post/</guid>
+      <description>Test video post with a YouTube video.</description>
+    </item>
+    
+  </channel>
+</rss>
