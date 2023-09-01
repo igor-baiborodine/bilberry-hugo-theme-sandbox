@@ -1,7 +1,7 @@
 ### Adding Theme Files as a Hugo Module (v3)
 ## https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/
 
-![Update GitHub Pages](https://github.com/igor-baiborodine/bilberry-hugo-theme-sandbox/actions/workflows/gh-pages.yml/badge.svg)
+![Update GitHub Pages](https://github.com/igor-baiborodine/bilberry-hugo-theme-sandbox/actions/workflows/hugo.yml/badge.svg)
 
 ### Adding Theme Files as a Git Submodule (v4)
 ## https://www.bilberry-sandbox.kiroule.com/
