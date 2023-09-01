@@ -1,4 +1,4 @@
-### Adding Theme Files as a Hugo Module (v3)
+### Adding Theme Files as a Hugo Module (v4)
 ## https://igor-baiborodine.github.io/bilberry-hugo-theme-sandbox/
 
 ![Update GitHub Pages](https://github.com/igor-baiborodine/bilberry-hugo-theme-sandbox/actions/workflows/hugo.yml/badge.svg)
