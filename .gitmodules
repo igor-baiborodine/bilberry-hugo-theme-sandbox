@@ -1,4 +1,4 @@
 [submodule "themes/bilberry-hugo-theme"]
 	path = themes/bilberry-hugo-theme
-	url = https://github.com/Lednerb/bilberry-hugo-theme.git
-#     branch = feat/v4-replace-magnific-popup-with-dimbox
+	url = https://github.com/atsuyaw/bilberry-hugo-theme.git
+    branch = dark-theme
