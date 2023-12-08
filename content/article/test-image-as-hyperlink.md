@@ -14,6 +14,3 @@ This post tests image as a hyperlink.
 
 Clicking on the image should redirect to the "Russian Winter" Wikipedia page.
 
-{{< hyperlink-image "Russian Winter" 
-    "/img/content/article/test-image-modal-zoom/russian-winter.jpg" 
-    "https://en.wikipedia.org/wiki/Russian_Winter" >}} 
