@@ -1,5 +1,4 @@
 [submodule "themes/bilberry-hugo-theme"]
 	path = themes/bilberry-hugo-theme
 	url = https://github.com/Lednerb/bilberry-hugo-theme.git
-#    branch = feat/v4-hugo-pipes-2
-#     branch = feat/v4-replace-magnific-popup-with-dimbox
+#    branch = fix/v4-issue-615-code-line-highlighting
