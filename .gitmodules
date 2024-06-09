@@ -1,4 +1,4 @@
 [submodule "themes/bilberry-hugo-theme"]
 	path = themes/bilberry-hugo-theme
-	url = https://github.com/Lednerb/bilberry-hugo-theme.git
-#    branch = fix/v4-issue-615-code-line-highlighting
+	url = https://github.com/Sp-cy/bilberry-hugo-theme.git
+	branch = patch-3
