@@ -60,7 +60,7 @@ jobs:
           > public/.nojekyll
           ./.github/scripts/update-css.sh
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
