@@ -3,7 +3,7 @@
   command = "hugo"
 
 [build.environment]
-  HUGO_VERSION = "0.110.0"
+  HUGO_VERSION = "0.125.7"
 
 # URL: https://bilberry-sandbox.kiroule.com/
 [context.production.environment]
