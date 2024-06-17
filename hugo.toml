@@ -169,7 +169,7 @@ disqusShortname = ""
   [languages.ru]
     weight = 1
     title = "Черничная Песочница"
-    [languages.de.params]
+    [languages.ru.params]
       subtitle = "Необработанный HTML активирован!"
 
 [markup]
