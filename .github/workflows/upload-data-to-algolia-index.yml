@@ -9,7 +9,7 @@ jobs:
   upload_data:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.110.0
+      HUGO_VERSION: 0.125.7
     steps:
       - name: Install Hugo CLI
         run: |
