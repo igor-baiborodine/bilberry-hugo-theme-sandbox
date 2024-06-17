@@ -4,7 +4,7 @@ date: 2022-12-19T19:00:00-05:00
 publishDate: 2022-12-19T20:00:00-05:00
 lastmod: 2022-12-19T21:00:00-05:00
 images: ["/img/content/article/open-graph-metadata-for-single-page-article-with-extra-front-matter-variables/thumbnail.jpg"]
-audio: "/audio/icq-remix.mp3"
+audio: ["/audio/icq-remix.mp3"]
 videos: ["/video/test_mp4_video.mp4"]
 
 categories: ["Open Graph"]
