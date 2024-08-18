@@ -4,7 +4,7 @@
 
 [build.environment]
   GO_VERSION = "1.21.11"
-  HUGO_VERSION = "0.125.7"
+  HUGO_VERSION = "0.132.1"
 
 # URL: https://bilberry-sandbox.kiroule.com/
 [context.production.environment]
