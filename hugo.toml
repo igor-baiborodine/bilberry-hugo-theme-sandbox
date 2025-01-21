@@ -9,13 +9,12 @@ baseURL = "https://www.bilberry-sandbox.kiroule.com/"
     # Options 2 and 3: cloning/copying the theme files
     path = "bilberry-hugo-theme/v4"
 
-canonifyurls = true
-
 # Generate the robots.txt file for SEO
 enableRobotsTXT = true
 
 # Change to one of your content languages definded at the end.
-DefaultContentLanguage = "en"
+defaultContentLanguage = "ru"
+defaultContentLanguageInSubdir = false
 
 # Enable / Disable Google Analytics statistics for your site
 googleAnalytics = "G-HE5BVSN9FB"
@@ -164,13 +163,13 @@ disqusShortname = ""
 # customize your available languages for your multi-langual site
 # or delete the [languages] blog to use the theme with only one supported language
 [languages]
-  [languages.en]
-    weight = 1
   [languages.ru]
     weight = 1
     title = "Черничная Песочница"
     [languages.ru.params]
       subtitle = "Необработанный HTML активирован!"
+  [languages.en]
+    weight = 2
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
