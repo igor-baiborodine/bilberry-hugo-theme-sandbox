@@ -15,7 +15,7 @@ canonifyurls = true
 enableRobotsTXT = true
 
 # Change to one of your content languages definded at the end.
-DefaultContentLanguage = "en"
+defaultContentLanguage = "en"
 
 # Enable / Disable Google Analytics statistics for your site
 googleAnalytics = "G-HE5BVSN9FB"
@@ -167,7 +167,7 @@ disqusShortname = ""
   [languages.en]
     weight = 1
   [languages.ru]
-    weight = 1
+    weight = 2
     title = "Черничная Песочница"
     [languages.ru.params]
       subtitle = "Необработанный HTML активирован!"
