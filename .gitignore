@@ -1,5 +1,5 @@
 *.iml
 public
-algolia/node_modules
+**/node_modules
 .hugo_build.lock
 resources/_gen
