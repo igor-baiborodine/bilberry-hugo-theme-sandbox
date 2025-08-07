@@ -1,3 +1,3 @@
 module github.com/igor-baiborodine/bilberry-hugo-theme-sandbox
 
-go 1.22.6
+go 1.24.4
