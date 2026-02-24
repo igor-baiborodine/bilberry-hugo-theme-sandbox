@@ -3,7 +3,7 @@
   command = "hugo"
 
 [build.environment]
-  GO_VERSION = "1.125.7"
+  GO_VERSION = "1.25.7"
   HUGO_VERSION = "0.154.0"
 
 # URL: https://bilberry-sandbox.kiroule.com/
