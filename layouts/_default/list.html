@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<div class="content">
+  <div class="article-wrapper u-cf single">
+    <a class="bubble" href="{{ .Permalink }}">
+      <i class="fa fa-fw fa-list"></i>
+    </a>
+
+    <article class="article">
+      <div class="content">
+        <h1 class="article-title">{{ .Title }}</h1>
+        <div class="meta"></div>
+        <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+        {{.Content}}
+        <div class="archive-list">
+          <ul>
+            <!-- Ranges through content/audio/*.md -->
+            {{ range .Pages }}
+            <li>
+              <a href="{{ .Permalink }}">{{ .Title }} <span>({{.Date.Format "2006-01-02"}})</span></a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+    </article>
+  </div>
+</div>
+{{ end }}
